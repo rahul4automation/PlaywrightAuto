@@ -1,0 +1,18 @@
+{
+  "name": "digital-playwright",
+  "version": "1.0.0",
+  "description": "Automated software testing with playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^9.3.0",
+    "prettier": "^3.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  }
+}
